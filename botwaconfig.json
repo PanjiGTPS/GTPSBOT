@@ -1,0 +1,10 @@
+{
+    "prefix": "!",
+    "ownerNumber": ["6287888044000@c.us", "6287869164526@c.us", "6282149346313@c.us", "6289515899015@c.us", "6287754425485@c.us"],
+    "exegtps": "enet.exe",
+    "player": "players",
+    "world": "worlds",
+    "playeronline": "playeronline.txt",
+    "gemfolder": "gemdb",
+    "nameserver": "GTWH"
+}
